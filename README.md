@@ -1,6 +1,7 @@
 <!--
 GitHub Profile README
-Owner: Vyom Bhimani (@bhimanijay89)
+Name: Jay Bhimani
+GitHub: bhimanijay89
 Theme: Cyberpunk × Subtle Anime
 -->
 
@@ -8,7 +9,7 @@ Theme: Cyberpunk × Subtle Anime
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:111827,100:06B6D4&height=200&section=header&text=VYOM%20BHIMANI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:111827,100:06B6D4&height=200&section=header&text=JAY%20BHIMANI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Technology+Enthusiast;Building+Web+%26+Mobile+Experiences;Always+Learning.+Always+Building." alt="Typing SVG" />
@@ -33,6 +34,7 @@ Theme: Cyberpunk × Subtle Anime
 
 ```yaml
 name: Jay Bhimani
+nickname: Vyom
 github: bhimanijay89
 role: Developer & Technology Enthusiast
 education: B.Tech Computer Science & Engineering
@@ -79,10 +81,6 @@ philosophy: "Learn. Build. Break. Improve. Repeat."
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,linux,vscode,androidstudio" />
 
 </div>
-
-## `featured_projects` — Things I've Built
-
-<!-- Replace the existing featured_projects section with this one -->
 
 ## `featured_projects` — Things I've Built
 
