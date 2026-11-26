@@ -32,7 +32,7 @@ Theme: Cyberpunk × Subtle Anime
 ## `whoami` — About Me
 
 ```yaml
-name: Vyom Bhimani
+name: Jay Bhimani
 github: bhimanijay89
 role: Developer & Technology Enthusiast
 education: B.Tech Computer Science & Engineering
@@ -82,6 +82,10 @@ philosophy: "Learn. Build. Break. Improve. Repeat."
 
 ## `featured_projects` — Things I've Built
 
+<!-- Replace the existing featured_projects section with this one -->
+
+## `featured_projects` — Things I've Built
+
 <table>
 <tr>
 <td width="50%">
@@ -103,15 +107,15 @@ A modern anime platform focused on anime discovery, streaming experiences and wa
 </td>
 <td width="50%">
 
-### ✨ Lumora
+### 🎬 Lumora Streaming
 
-**Social Media Platform Concept**
+**Collaborative Movie Streaming Website**
 
-A modern social experience inspired by visual content platforms.
+A movie streaming web project developed collaboratively with a friend, combining our ideas and development efforts.
 
-- Social feeds and media sharing
-- Real-time communication concepts
-- Modern UI/UX and interactive experiences
+- Movie streaming experience
+- Collaborative development
+- Web-based entertainment platform
 
 </td>
 </tr>
